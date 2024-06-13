@@ -1,0 +1,15 @@
+Source, Destination
+Ralphs,Grand & Pico
+Ralphs,Popeyes
+Grand & Pico,Popeyes
+Grand & Pico,McDonalds 1
+Popeyes,Target
+Target,Leavey Library
+Popeyes,Leavey Library
+McDonalds,McDonalds 1
+McDonalds 1,Burger King
+Leavey Library,McDonalds
+Leavey Library,Expo/Western
+Expo/Western,McDonalds
+Expo/Western, Parkside Dining Hall
+Burger King,Parkside Dining Hall
